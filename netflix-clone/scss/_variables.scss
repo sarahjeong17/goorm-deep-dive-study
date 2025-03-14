@@ -1,0 +1,33 @@
+$url: '../images/';
+
+$body: (
+    bg: #000,
+    text: #fff,
+);
+
+$primary: rgb(193, 34, 34);
+$sub: rgb(60, 60, 180);
+$line: rgba(white, 0.4);
+$radius: 5px;
+
+// break-point
+$max : 1280px;
+$laptop: 1024px;
+$tablet: 960px;
+$break: 720px;
+$mobile: 480px;
+$min: 360px;
+
+// font-size
+$font:(
+    lg:48,
+    lg-down : 32,
+    md: 24,
+    md-down: 20,
+    sm: 20,
+    sm-down: 18
+);
+$formBox:(
+    lg: 56px,
+    md: 32px
+);

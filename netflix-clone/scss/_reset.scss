@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+input, select, textarea, button{
+    font-family: inherit;
+}
+select{
+    appearance: none;
+    border: 0;
+    background: transparent;
+}
+button{
+    border:none;
+}
+li {list-style: none;}
+fieldset{
+    border:none;
+}
+mark{
+    background: transparent;
+    color:inherit;
+}
+a, button{
+    transition: .4s;
+}

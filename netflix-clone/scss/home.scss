@@ -1,0 +1,269 @@
+@use 'sass:map';
+#root{
+    min-width: 1280px;
+}
+header{
+    position: relative;
+    @include flex($g:10px, $j:center);
+    margin-top: rem(20);
+    h1{
+        flex-grow: 1;
+        font-size: rem(32);
+        font-weight:700; 
+        color: $primary;
+        @include shadow(text);
+    }
+    select, a{
+        font-size: 13px;
+    }
+    .select-box{
+        position: relative;
+        @include formBox(line);
+        padding-right:rem(16);
+        &::after{
+            content: '';
+            display: block;
+            position: absolute;
+            top:50%;
+            margin-top: rem(-3);
+            right:rem(11);
+            @include bgArrow(4px, 5px, #fff, 'down');
+        }
+        select{
+            padding: rem(10) rem(16);
+            //@debug rem(20);
+            color: #fff;
+            option{
+                line-height: rem(48);
+                //@debug rem(48);
+            }
+        }
+    }
+    .btn_login{
+        @include flex($j:center);
+        @include formBox(btn);
+        padding: rem(10) rem(16);
+    }
+}
+.visual-container{
+    position: relative;
+    min-height:43.75rem;
+    background: url(#{$url}bgtop-visual.png) no-repeat 50% 0/cover;
+
+    &:before{
+        content: '';
+        display: block;
+        position: absolute;
+        left:0;
+        top:0;
+        right:0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.35);
+        background-image: linear-gradient(to top, rgba(0,0,0, 0.8) 0,rgba(0,0,0,0) 60%, rgba(0,0,0,0.8) 100%);
+    }
+    .email-container {
+        position: relative;
+        @include flex($j:center);
+        flex-flow: column;
+        min-height: 500px;
+        p{
+            font-size: rem(18);
+            &.highlighting{
+                max-width: rem(730);
+                text-align: center;
+                font-weight: 700;
+                font-size:rem(56);
+                mark{
+                    display: block;
+                    margin-top: 20px;
+                    font-weight: 400;
+                    font-size: rem(18);
+                }
+            }
+        }
+        fieldset{
+            margin-top: rem(40);
+            text-align: center;
+            legend{
+                margin-bottom: rem(15);
+            }
+        }
+        input{
+            @include formBox(input);
+            padding: rem(19) rem(203) rem(19) rem(17);
+            &::placeholder{
+                font-size: rem(15);
+                color:rgb(140, 139, 139);
+            }
+        }
+        button{
+            position: relative;
+            height: rem(56);
+            @include formBox(btn);
+            margin-left: rem(4);
+            padding: 0 rem(50) 0 rem(20);
+            vertical-align: top;
+            font-weight: 500;
+            font-size: rem(24);
+            color: #fff;
+            &:after{
+                content: '';
+                display: block;
+                position: absolute;
+                top:50%;
+                right:rem(20);
+                margin-top:rem(-6.5);
+                @include lineArrow(10px, 2px, #fff, 'right');
+            }
+        }
+
+    }
+    .ad-container{
+        position: relative;
+        top:0;
+        height:100px;
+        padding-top: rem(85);
+        border: solid .25rem transparent;
+        border-top-left-radius: 50% 100%;
+        border-top-right-radius: 50% 100%;
+        border-bottom: none;
+        background: radial-gradient(50% 500% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%), black;
+        
+        &:before{
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            margin-top:-0.25rem;
+            border-radius: inherit;
+            background: linear-gradient(to right, rgba(33, 13, 22, 1) 16%, rgba(184, 40, 105, 1), rgba(229, 9, 20, 1), rgba(184, 40, 105, 1), rgba(33, 13, 22, 1) 84%);
+        }
+        &:after{
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            border-radius: inherit;
+            background: radial-gradient(50% 500% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%),#000;
+        }
+        .ad-banner{
+            position: relative;
+            display: flex;
+            max-width: 1100px;
+            margin:0 auto;
+            padding: rem(20) rem(30);
+            transform: translate(80px);
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 1rem;
+            background: linear-gradient(91deg, #261733, #151a3f);
+            transition: all 0.5s cubic-bezier(0.33, 0, 0, 1);
+            z-index: 1;
+            &:after{
+                content: '';
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: -90px;
+                width:60px;
+                background: url(#{$url}img-popcon.png) no-repeat 50% 0/cover;
+            }
+            &:hover{
+                scale: 1.03;
+            }
+            .description{
+                flex-grow: 1;
+                line-height: rem(26);
+                p{
+                    &:first-child{
+                        font-weight: 500;
+                        font-size: rem(20);
+                    }
+                }
+            }
+            .btn_more{
+                padding: rem(16);
+                border-radius: 0.25rem;
+                background: rgba(128, 128, 128, 0.4);
+                font-weight: 500;
+                &:hover{
+                    background: rgba(128, 128, 128, 0.3);
+                }
+            }
+        }
+    }
+}
+.contents-container{
+    margin-top:rem(70);
+    margin-bottom: rem(100);
+    article{
+        @extend %base;
+        h2{
+            font-size:rem(32);
+        }
+        .slider-container{
+            position: relative;
+            // margin: rem(24) rem(35) 0 rem(35);
+            .slider-content{
+                overflow-x: auto;
+                overflow-y: hidden;
+                display: flex;
+                flex-wrap: nowrap;
+                max-height: 250vh;
+                gap:20px;
+                scrollbar-width: none;
+            }
+            .slider{
+                display: flex;
+                transition: transform 3s ease-in-out;
+                gap:20px;
+                li{
+                    display: inline-flex;
+                    transition: transform 0.3s ease-in-out;
+                }
+                img{
+                    max-height: rem(270);
+                    border-radius: 1rem;
+                }
+            }
+            .btn{
+                position: absolute;
+                top: 25%;
+                bottom: 25%;
+                width: 25px;
+                border-radius: 5px;
+                background-color: #414141;
+                &.prev{
+                    left:rem(-35);
+                    &:after{
+                        content: '';
+                        position: absolute;
+                        top:50%;
+                        left:50%;
+                        margin:-5px 0 0 -3px;
+                        @include lineArrow(10px, 2px, #fff, 'left');
+                    }
+                }
+                &.next{
+                    right:rem(-35);
+                    &:after{
+                        content: '';
+                        position: absolute;
+                        top:50%;
+                        right:50%;
+                        margin:-5px -3px 0 0;
+                        @include lineArrow(10px, 2px, #fff, 'right');
+                    }
+                }
+                &.hide{
+                    opacity: 0;
+                }
+            }
+        }
+    }
+
+}

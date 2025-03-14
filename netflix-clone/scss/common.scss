@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+@use 'sass:map';
+
+@import url("https://fonts.googleapis.com/css2?family=Poor+Story&family=Ubuntu:wght@300;400;500;700&display=swap");
+
+@import 'variables';
+@import 'script';
+@import 'reset';
+@import 'extend';
+
+
+body {
+    font-family: 'Ubuntu','poor story', sans-serif;
+    background-color:map.get($body, bg);
+    color:map.get($body, text);
+}
+.blind{
+    @extend %blind;
+}
+
+@import 'layout';
+@import 'home';

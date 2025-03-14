@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>:: NETFLEX clone ::</title>
+    <link rel="stylesheet" href="./css/common.css">
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.0.0-beta.4/dist/tesseract.min.js"></script>    
+</head>
+<body>
+    <div id="root">
+        <section class="visual-container">
+            <header>
+                <h1>
+                    <base href="#">NETFLEX</base>
+                </h1>
+                <div class="select-box">
+                    <select>
+                        <option>English</option> 
+                        <option>한국어</option>
+                    </select>
+                </div>
+                <a href="#" class="btn_login">Sign In</a>
+            </header>
+            <div class="email-container">
+                <p class="highlighting">Unlimited movies, TV shows, and more
+                    <mark>Starts at KRW 5,500. Cancel anytime.</mark>
+                </p>
+                <form action="#">
+                    <fieldset>
+                        <legend>Ready to watch? Enter your email to create or restart your membership.</legend>
+                        <input type="email" required placeholder="Email address" />
+                        <button type="submit">Get Started</button>
+                    </fieldset>
+                </form>
+            </div>
+            <aside class="ad-container">
+                <div class="ad-banner">
+                    <div class="description">
+                        <p>The Netflix you love for just KRW 5,500.</p>
+                        <p>Get our most affordable, ad-supported plan.</p>
+                    </div>
+                    <a href="#" class="btn_more">Learn More</a>
+                </div>
+            </aside>
+        </section>
+        <section class="contents-container">
+            <article>
+                <h2>Trending Now</h2>
+                <div class="slider-container">
+                    <div class="slider-content">
+                        <ol class="slider">
+                            <!-- <li class="slider-track-list">
+                                <a href="#">
+                                    <img src="./images/img-movie1.jpg" alt=""/>
+                                </a>
+                            </li>
+                            <li class="slider-track-list">
+                                <a href="#">
+                                    <img src="./images/img-movie2.jpg" alt=""/>
+                                </a>
+                            </li>
+                            <li class="slider-track-list">
+                                <a href="#">
+                                    <img src="./images/img-movie3.jpg" alt=""/>
+                                </a>
+                            </li>
+                            <li class="slider-track-list">
+                                <a href="#">
+                                    <img src="./images/img-movie4.jpg" alt=""/>
+                                </a>
+                            </li>
+                            <li class="slider-track-list">
+                                <a href="#">
+                                    <img src="./images/img-movie5.jpg" alt=""/>
+                                </a>
+                            </li> -->
+                        </ol>
+                    </div>
+                    <button type="button" class="btn prev" id="btn-prev">
+                        <span class="blind">이전</span>
+                    </button>
+                    <button type="button" class="btn next" id="btn-next">
+                        <span class="blind">다음</span>
+                    </button>
+                </div>
+            </article>
+        </section>
+    </div>
+</body>
+<script type="text/javascript" src="./js/common.js"></script>
+</html>
