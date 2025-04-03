@@ -1,5 +1,5 @@
 ## file path
-> cd youtube-mockup
+> cd youtube-api
 ## install
 1. dart sass 
    > npm i sass
