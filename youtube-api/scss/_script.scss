@@ -1,0 +1,41 @@
+@use 'sass:math';
+@use 'sass:color';
+
+//Unit change
+@function rem($size, $pixel: 16){
+    $size: math.div($size, $pixel);
+    @return #{$size}rem;
+}
+
+
+@mixin shadow($type:box, $size:10px, $color:black, $alpha:0.8){
+    #{$type}-shadow: 0 0 $size rgba($color, $alpha);
+}
+
+@mixin flex($gap:null,$align:center,$justify:space-between,$direction:null){
+    display:flex;
+    justify-content: $justify;
+    align-items: $align;
+    gap: $gap;
+    flex-direction: $direction;
+}
+@mixin formBox($type:null, $size: md){
+    // $type : btn, input, line
+    border-radius: $radius;
+    
+    @if $type == btn {
+        background-color: $primary;
+        &:hover{
+            background-color: color.scale($primary, $lightness: -20%);
+        }
+    } @else if $type == input {
+        border:0.5px solid $line;
+        background-color: rgba(white, 0.1);
+        &:focus{
+            border-color: rgba($primary, 0.1);
+        }
+    } @else if $type == line {
+        border: 1px solid $line;
+        background-color: transparent;
+    }
+}

@@ -1,0 +1,10 @@
+main{
+    min-width: 360px;
+}
+header {
+    @extend %base;
+}
+footer{
+    @extend %base;
+    min-height: 180px;
+}
