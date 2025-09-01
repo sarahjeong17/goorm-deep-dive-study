@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "username": "asdasd",
+      "name": "dfgdase",
+      "profileImage": "assets/images/IMG_3119.jpeg",
+      "verified": "true",
+      "followers": 26034
+    },
+    {
+      "username": "123ㅎㄴ",
+      "name": "ㄴㅇㄹㄴㄹ",
+      "profileImage": "assets/images/9437DB0A-41F1-4EFC-A718-9F2BABE7CA3D_1_105_c.jpeg",
+      "followers": 1032200,
+      "verified": "true"
+    },
+    {
+      "username": "santti",
+      "name": "santti",
+      "profileImage": "assets/images/IMG_3765.jpeg",
+      "followers": 9,
+      "follower": "frosty"
+    },
+    {
+      "username": "2342r",
+      "name": "sdffsdf",
+      "profileImage": "assets/images/D361D714-02F0-4394-94FF-3B4D2F6CB38A_1_105_c.jpeg",
+      "followers": 2342,
+      "follower": "snowqueen"
+    },
+    {
+      "username": "snowqueen",
+      "name": "asdadas3",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 003.png",
+      "verified": "true",
+      "followers": 524002
+    },
+    {
+      "username": "342234",
+      "name": "sdfsfsdf3",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 004.jpeg",
+      "followers": 17,
+      "follower": "342234"
+    },
+    {
+      "username": "1231323",
+      "name": "asdaw3",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 005.jpeg",
+      "followers": 9,
+      "follower": "342234"
+    },
+    {
+      "username": "2w2322",
+      "name": "2w2322",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 006.jpeg",
+      "followers": 2,
+      "follower": "342234"
+    },
+    {
+      "username": "jjjjj",
+      "name": "jjjjj",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 007.jpeg",
+      "followers": 1,
+      "follower": "342234"
+    },
+    {
+      "username": "holly",
+      "name": "홀리",
+      "profileImage": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 008.jpeg",
+      "followers": 18,
+      "follower": "342234"
+    },
+    {
+      "username": "noel",
+      "name": "노엘",
+      "profileImage": "assets/images/Image (2).jpg",
+      "followers": 17,
+      "follower": "342234"
+    },
+    {
+      "username": "caroler",
+      "name": "asdase",
+      "profileImage": "assets/images/sara.JPG",
+      "followers": 9,
+      "follower": "awseqwe"
+    },
+    {
+      "username": "asdase",
+      "name": "asdase",
+      "profileImage": "assets/images/Image.jpg",
+      "followers": 6,
+      "follower": "asdqw"
+    },
+    {
+      "username": "no1ellie",
+      "name": "1",
+      "profileImage": "assets/images/Image (1).jpg",
+      "followers": 3,
+      "follower": "snowqueen"
+    },
+    {
+      "username": "2122",
+      "name": "2122",
+      "profileImage": "assets/images/Image (3).jpg",
+      "followers": 14,
+      "follower": "frosty"
+    },
+    {
+      "username": "qw2323",
+      "name": "qw2323",
+      "profileImage": "assets/images/Image (4).jpg",
+      "followers": 13,
+      "follower": "snowqueen"
+    },
+    {
+      "username": "gdggggg",
+      "name": "gdggggg",
+      "profileImage": "assets/images/Image (5).jpg",
+      "followers": 12,
+      "follower": "starry"
+    },
+    {
+      "username": "aseqe",
+      "name": "aseqe",
+      "profileImage": "assets/images/Image (6).jpg",
+      "followers": 2,
+      "follower": "snowqueen"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+    "feeds": [
+        {
+            "username": "sdfsfsf",
+            "location": "고양시",
+            "profileImage": "./assets/images/pr7O2TJGGxsG-0jVWGW0xw.jpg",
+            "update": "1시간",
+            "postImages": [
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 005.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 006.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 007.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 008.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 009.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26-001.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26-002.jpeg",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 003.png",
+                "./assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 004.jpeg"
+            ],
+            "likes": 95,
+            "caption": "봄날 벚꽃 모음. 봄이여 어서 오라",
+            "comments": 48
+        },
+        {
+            "username": "nolimitcoffeebar",
+            "location": "서울 용산구",
+            "update": "1일",
+            "profileImage": "./assets/images/Image (1).jpg",
+            "postImages": [
+                "./assets/images/3B25E793-B029-4FB1-A5CF-D86397CD662C_1_105_c.jpeg",
+                "./assets/images/55FD8A26-92CD-4636-AFED-F91B3973D81C_1_105_c.jpeg"
+            ],
+            "likes": 120,
+            "caption": "오늘은 내 생일! 모두들 너무 많이 축하해 주셔서 몸들바를 모르겠어요ㅜ_ㅜ 감사합니다!!!",
+            "comments": 32
+        },
+        {
+            "username": "sdfsdr",
+            "location": "서울 송파구, 송파나루역",
+            "update": "1일",
+            "profileImage": "./assets/images/856AE149-E607-4CFA-A200-6C8F784708C2.jpeg",
+            "postImages": [
+                "./assets/images/A2031CAA-BE38-4DAA-B2CA-27D5D2F09C30_1_105_c.jpeg",
+                "./assets/images/7E43CEF9-D3D2-4097-B8E8-28CF82E982BB_1_105_c.jpeg",
+                "./assets/images/8254C60B-1788-4333-A628-00E1648B9459_1_105_c.jpeg"
+            ],
+            "likes": 48,
+            "caption": "고기는 진리지~ㅎㅎㅎ 냐미냐미",
+            "comments": 39
+        },
+        {
+            "username": "werwr",
+            "location": "서울 서초구",
+            "update": "1주",
+            "profileImage": "./assets/images/AD2A442E-2490-4548-8CA0-C1FB0ADDB6D5.jpeg",
+            "postImages": [
+                "./assets/images/418843B2-6072-43E6-BA0F-131B567E30FE_1_105_c.jpeg",
+                "./assets/images/DC4D40EB-ED92-4843-B568-286EB78F46D3_1_105_c.jpeg",
+                "./assets/images/4D9F9E93-6B38-4438-B107-F50E6CA4958B_1_105_c.jpeg",
+                "./assets/images/CA0A97A7-C537-4F59-A892-E328708EA0B8_1_105_c.jpeg"
+            ],
+            "likes": 52,
+            "caption": "오늘은 꽃 보며 힐링~!! 너무 좋다!! 오늘도 모두들 화이팅하자요!",
+            "comments": 61
+        },
+        {
+            "username": "culture",
+            "location": "안국",
+            "update": "2주",
+            "profileImage": "./assets/images/CF4F17A3-87AC-42D5-AEA0-4B2CB42DDF5E.png",
+            "postImages": [
+                "./assets/images/B69B31E5-6C35-4E5F-8BB9-0617B9B6E8EA_1_105_c.jpeg",
+                "./assets/images/E37A34EA-E590-47F3-BD7E-0C318EBC9215.jpeg",
+                "./assets/images/852FB155-6D18-4A04-82B0-1FD17AAC391C.jpeg"
+            ],
+            "likes": 77,
+            "caption": "한국 문화 체험 중입니다. 헿헤헿 한국 너무 너무 좋네요!! 한국 여행 또 와야지 헿헿헿 한국 문화 체험 중입니다. 헿헤헿 한국 너무 너무 좋네요!! 한국 여행 또 와야지 헿헿헿한국 문화 체험 중입니다. 헿헤헿 한국 너무 너무 좋네요!! 한국 여행 또 와야지 헿헿헿",
+            "comments": 54
+        },
+        {
+            "username": "%ssssl_@@_",
+            "location": "강남",
+            "profileImage": "./assets/images/dummy.png",
+            "update": "3일",
+            "postImages": [
+                "./assets/images/9C715B3C-231C-47E9-A9F3-F06A7DA49F1D_1_105_c.jpeg",
+                "./assets/images/E5EDC2CD-4EBD-4E87-A397-43AE31179D8D_1_105_c.jpeg",
+                "./assets/images/F2C72F4B-EFE5-4DE1-82FA-6A7CF84F7363_1_105_c.jpeg",
+                "./assets/images/92F33FB6-221A-4DDA-BFEB-127A7B3955B0_1_105_c.jpeg"
+            ],
+            "likes": 212,
+            "caption": "우리의 마지막은 깨끗하게 맑게 아름답게 ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ",
+            "comments": 156
+        },
+        {
+            "username": "sara",
+            "location": "정사라(2wedsxf)",
+            "update": "1일",
+            "profileImage": "./assets/images/sara.JPG",
+            "postImages": [
+                "./assets/images/IMG_3004.JPG",
+                "./assets/images/IMG_3765.jpeg",
+                "./assets/images/IMG_3119.jpeg"
+            ],
+            "likes": 41,
+            "caption": "오늘 하루도 맑음",
+            "comments": 37
+        },
+        {
+            "username": "sdfsfff",
+            "location": "seoul",
+            "update": "1주",
+            "profileImage": "./assets/images/51082655.jpeg",
+            "postImages": [
+                "./assets/images/1C5BA610-6B71-42D0-B5B6-91B718222A36_1_105_c.jpeg",
+                "./assets/images/1ECE2923-4C14-4EDD-BC52-D3F69FA7208D_1_105_c.jpeg",
+                "./assets/images/3B067F64-275B-40D3-AB52-44533FF56E66_1_105_c.jpeg",
+                "./assets/images/6BD8C011-C617-4C36-8169-6DE2D70DADC5.jpeg",
+                "./assets/images/4750B4DE-7D6A-430F-B7A1-A384C9C329E6_1_105_c.jpeg",
+                "./assets/images/8930D75F-F0E3-4629-9C5B-9D0179766765_1_105_c.jpeg",
+                "./assets/images/E7CE9CFC-4264-41CD-B1D4-889F3777F42C_1_105_c.jpeg",
+                "./assets/images/9437DB0A-41F1-4EFC-A718-9F2BABE7CA3D_1_105_c.jpeg",
+                "./assets/images/BDE5005D-0FE3-44D1-9DC9-A1AC0D9C444D_1_105_c.jpeg"
+            ],
+            "likes": 102,
+            "caption": "나도 나도 독서모드닷!",
+            "comments": 92
+        },
+        {
+            "username": "232444",
+            "location": "교보문고",
+            "update": "33분",
+            "profileImage": "./assets/images/95e9972f-12af-4614-9579-672653296b3e.png",
+            "postImages": [
+                "./assets/images/C3637974-8E5C-482B-973F-096375CF2018_1_105_c.jpeg",
+                "./assets/images/142C6428-53C6-44E8-847F-CB8F1057B11C_1_105_c.jpeg",
+                "./assets/images/DE88EFC4-FF84-4C32-84D9-05EE17981B2A_1_105_c.jpeg",
+                "./assets/images/F92791E5-C687-4014-8DE3-5711F31D9A3B_1_105_c.jpeg"
+            ],
+            "likes": 74,
+            "caption": "커피한잔과 함께 모처럼 즐거운 독서를 하는 중",
+            "comments": 76
+        },
+        {
+            "username": "3423424",
+            "location": "jeju",
+            "update": "3주",
+            "profileImage": "./assets/images/9409d7cf-4a11-451b-a671-1788be15760b.png",
+            "postImages": [
+                "./assets/images/beautiful-dusk-light-colorful-beauty.jpg"
+            ],
+            "likes": 62,
+            "caption": "아름다운 석양을 보며 힐링을~~",
+            "comments": 33
+        },
+        {
+            "username": "나나",
+            "location": "jeju",
+            "update": "3주",
+            "profileImage": "./assets/images/DFDBAF3F-654F-4090-B163-5EC38CD71DA1_1_102_o.jpeg",
+            "postImages": [
+                "./assets/images/95DA1EDC-838E-4995-88EB-700C3D1CA6B5_1_105_c.jpeg"
+            ],
+            "likes": 62,
+            "caption": "오늘도 나는 건강하게 건강식!ㅎㅎㅎ",
+            "comments": 244
+        },
+        {
+            "username": "lululemon",
+            "location": "usa",
+            "update": "3주",
+            "profileImage": "./assets/images/81ED5337-5AB6-4D24-94C4-664AAA8F10FF.jpeg",
+            "postImages": [
+                "./assets/images/AA38533C-7A7D-420F-B9B1-E79E18B8E3B1.jpeg",
+                "./assets/images/40EFBFA5-4277-4EC9-82C0-A413A3344F76.jpeg",
+                "./assets/images/C2033F06-FBF2-493D-B87E-14BBF9AD1BE1.jpeg",
+                "./assets/images/0F395C87-F990-4318-90FC-B2130F2B876F.jpeg",
+                "./assets/images/9BF736D8-C218-4A05-9F6A-EC30DA5F786C.jpeg",
+                "./assets/images/379B18CE-279E-4460-8505-802E91E1C310.jpeg",
+                "./assets/images/552A6B12-E5F7-4C62-88A8-10F1A0DEF896.jpeg",
+                "./assets/images/774D31B1-51F7-414B-A22E-518796C20FB9.jpeg"
+            ],
+            "likes": 62,
+            "caption": "스즈메의 문단속 너무 재밌어!!ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ",
+            "comments": 1231
+        },
+        {
+            "username": "lululemon",
+            "location": "usa",
+            "update": "3주",
+            "profileImage": "./assets/images/Image (2).jpg",
+            "postImages": [
+                "./assets/images/Image (7).jpg",
+                "./assets/images/Image (3).jpg",
+                "./assets/images/Image (4).jpg",
+                "./assets/images/Image (5).jpg",
+                "./assets/images/Image (6).jpg",
+                "./assets/images/Image (8).jpg",
+                "./assets/images/Image (9).jpg"
+            ],
+            "likes": 62,
+            "caption": "영화는 힐링이지",
+            "comments": 1231
+        }
+    ]
+}

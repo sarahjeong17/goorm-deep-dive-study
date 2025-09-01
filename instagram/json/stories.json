@@ -1,0 +1,271 @@
+{
+  "stories": [
+    {
+      "userId": 1,
+      "username": "sdfhjjjjj",
+      "profileImage": "/assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 009.jpeg",
+      "stories": [
+        {
+          "storyId": 101,
+          "mediaType": "image",
+          "mediaUrl": "/assets/images/KakaoTalk_Photo_2025-04-20-00-03-26-001.jpeg",
+          "timestamp": 0
+        },
+        {
+          "storyId": 102,
+          "mediaType": "image",
+          "mediaUrl": "/assets/images/KakaoTalk_Photo_2025-04-20-00-03-26-002.jpeg",
+          "timestamp": 2
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "username": "dfghfgy",
+      "profileImage": "assets/images/D361D714-02F0-4394-94FF-3B4D2F6CB38A_1_105_c.jpeg",
+      "stories": [
+        {
+          "storyId": 201,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/C2033F06-FBF2-493D-B87E-14BBF9AD1BE1.jpeg",
+          "timestamp": 0
+        },
+        {
+          "storyId": 202,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/3B25E793-B029-4FB1-A5CF-D86397CD662C_1_105_c.jpeg",
+          "timestamp": 3
+        }
+      ]
+    },
+    {
+      "userId": 3,
+      "username": "snowqueen",
+      "profileImage": "assets/images/0F395C87-F990-4318-90FC-B2130F2B876F.jpeg",
+      "stories": [
+        {
+          "storyId": 301,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/1A5BC88E-329E-4A14-A428-96C72143E085_1_105_c.jpeg",
+          "timestamp": 1
+        },
+        {
+          "storyId": 302,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/1C5BA610-6B71-42D0-B5B6-91B718222A36_1_105_c.jpeg",
+          "timestamp": 6
+        }
+      ]
+    },
+    {
+      "userId": 4,
+      "username": "aseddwet",
+      "profileImage": "assets/images/1ECE2923-4C14-4EDD-BC52-D3F69FA7208D_1_105_c.jpeg",
+      "stories": [
+        {
+          "storyId": 401,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/3B067F64-275B-40D3-AB52-44533FF56E66_1_105_c.jpeg",
+          "timestamp": 3
+        },
+        {
+          "storyId": 402,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/7E43CEF9-D3D2-4097-B8E8-28CF82E982BB_1_105_c.jpeg",
+          "timestamp": 10
+        }
+      ]
+    },
+    {
+      "userId": 5,
+      "username": "464rrr",
+      "profileImage": "assets/images/4D9F9E93-6B38-4438-B107-F50E6CA4958B_1_105_c.jpeg",
+      "stories": [
+        {
+          "storyId": 501,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/6BD8C011-C617-4C36-8169-6DE2D70DADC5.jpeg",
+          "timestamp": 0
+        }
+      ]
+    },
+    {
+      "userId": 6,
+      "username": "jryrrt6",
+      "profileImage": "assets/images/CItsYH-D7Igjj0fiF1f52i7WUWUQe53zCivqzXnEQGxaGENL9oiFXVpe9sVeAysCLBvElI5VffalDWYv_BSXVw.png",
+      "stories": [
+        {
+          "storyId": 601,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/F2C72F4B-EFE5-4DE1-82FA-6A7CF84F7363_1_105_c.jpeg",
+          "timestamp": 0
+        }
+      ]
+    },
+    {
+      "userId": 7,
+      "username": "hjrftyr6y",
+      "profileImage": "assets/images/Image (1).jpg",
+      "stories": [
+        {
+          "storyId": 701,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/Image (2).jpg",
+          "timestamp": 0
+        },
+        {
+          "storyId": 702,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/Image (3).jpg",
+          "timestamp": 0
+        },
+        {
+          "storyId": 703,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/Image (4).jpg",
+          "timestamp": 1
+        },
+        {
+          "storyId": 704,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/Image (5).jpg",
+          "timestamp": 17
+        }
+      ]
+    },
+    {
+      "userId": 8,
+      "username": "hjrtyruj",
+      "profileImage": "assets/images/Image (6).jpg",
+      "stories": [
+        {
+          "storyId": 801,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/Image (7).jpg",
+          "timestamp": 2
+        }
+      ]
+    },
+    {
+      "userId": 9,
+      "username": "23424",
+      "profileImage": "assets/images/pr7O2TJGGxsG-0jVWGW0xw.jpg",
+      "stories": [
+        {
+          "storyId": 901,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/A2031CAA-BE38-4DAA-B2CA-27D5D2F09C30_1_105_c.jpeg",
+          "timestamp": 3
+        },
+        {
+          "storyId": 902,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/55FD8A26-92CD-4636-AFED-F91B3973D81C_1_105_c.jpeg",
+          "timestamp": 4
+        }
+      ]
+    },
+    {
+      "userId": 10,
+      "username": "asdadad",
+      "profileImage": "assets/images/AD2A442E-2490-4548-8CA0-C1FB0ADDB6D5.jpeg",
+      "stories": [
+        {
+          "storyId": 1001,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/B69B31E5-6C35-4E5F-8BB9-0617B9B6E8EA_1_105_c.jpeg",
+          "timestamp": 21
+        },
+        {
+          "storyId": 1002,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/BDE5005D-0FE3-44D1-9DC9-A1AC0D9C444D_1_105_c.jpeg",
+          "timestamp": 23
+        }
+      ]
+    },
+    {
+      "userId": 11,
+      "username": "asdad",
+      "profileImage": "assets/images/Image (9).jpg",
+      "stories": [
+        {
+          "storyId": 1101,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 004.jpeg",
+          "timestamp": 1
+        },
+        {
+          "storyId": 1102,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 005.jpeg",
+          "timestamp": 1
+        },
+        {
+          "storyId": 1103,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 006.jpeg",
+          "timestamp": 13
+        }
+      ]
+    },
+    {
+      "userId": 12,
+      "username": "kytyuft",
+      "profileImage": "assets/images/Image.jpg",
+      "stories": [
+        {
+          "storyId": 1201,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/4750B4DE-7D6A-430F-B7A1-A384C9C329E6_1_105_c.jpeg",
+          "timestamp": 6
+        }
+      ]
+    },
+    {
+      "userId": 13,
+      "username": "jhtyut7u",
+      "profileImage": "assets/images/sara.JPG",
+      "stories": [
+        {
+          "storyId": 1301,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/KakaoTalk_Photo_2025-04-20-00-03-26 003.png",
+          "timestamp": 7
+        }
+      ]
+    },
+    {
+      "userId": 14,
+      "username": "asdad",
+      "profileImage": "assets/images/image.webp",
+      "stories": [
+        {
+          "storyId": 1401,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/E5EDC2CD-4EBD-4E87-A397-43AE31179D8D_1_105_c.jpeg",
+          "timestamp": 8
+        },
+        {
+          "storyId": 1402,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/IMG_3765.jpeg",
+          "timestamp": 8
+        }
+      ]
+    },
+    {
+      "userId": 15,
+      "username": "gggggggggggggggggggggggggggggg",
+      "profileImage": "assets/images/IMG_3004.JPG",
+      "stories": [
+        {
+          "storyId": 1501,
+          "mediaType": "image",
+          "mediaUrl": "assets/images/IMG_3119.jpeg",
+          "timestamp": 13
+        }
+      ]
+    }
+  ]
+}
